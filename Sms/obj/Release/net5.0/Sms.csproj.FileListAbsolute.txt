@@ -1,0 +1,12 @@
+D:\CodeBase\SmsOne\SmsService\Sms\Sms\bin\Release\net5.0\appsettings.js
+D:\CodeBase\SmsOne\SmsService\Sms\Sms\bin\Release\net5.0\Sms.deps.json
+D:\CodeBase\SmsOne\SmsService\Sms\Sms\bin\Release\net5.0\Sms.dll
+D:\CodeBase\SmsOne\SmsService\Sms\Sms\bin\Release\net5.0\ref\Sms.dll
+D:\CodeBase\SmsOne\SmsService\Sms\Sms\bin\Release\net5.0\Sms.pdb
+D:\CodeBase\SmsOne\SmsService\Sms\Sms\obj\Release\net5.0\Sms.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeBase\SmsOne\SmsService\Sms\Sms\obj\Release\net5.0\Sms.AssemblyInfoInputs.cache
+D:\CodeBase\SmsOne\SmsService\Sms\Sms\obj\Release\net5.0\Sms.AssemblyInfo.cs
+D:\CodeBase\SmsOne\SmsService\Sms\Sms\obj\Release\net5.0\Sms.csproj.CoreCompileInputs.cache
+D:\CodeBase\SmsOne\SmsService\Sms\Sms\obj\Release\net5.0\Sms.dll
+D:\CodeBase\SmsOne\SmsService\Sms\Sms\obj\Release\net5.0\ref\Sms.dll
+D:\CodeBase\SmsOne\SmsService\Sms\Sms\obj\Release\net5.0\Sms.pdb

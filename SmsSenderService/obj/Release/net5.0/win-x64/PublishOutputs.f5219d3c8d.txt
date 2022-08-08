@@ -1,0 +1,10 @@
+D:\CodeBase\SmsOne\SmsService\Sms\SmsSenderService\bin\Release\net5.0\publish\appsettings.Development.json
+D:\CodeBase\SmsOne\SmsService\Sms\SmsSenderService\bin\Release\net5.0\publish\appsettings.json
+D:\CodeBase\SmsOne\SmsService\Sms\SmsSenderService\bin\Release\net5.0\publish\SmsSenderService.pdb
+D:\CodeBase\SmsOne\SmsService\Sms\SmsSenderService\bin\Release\net5.0\publish\clrcompression.dll
+D:\CodeBase\SmsOne\SmsService\Sms\SmsSenderService\bin\Release\net5.0\publish\clrjit.dll
+D:\CodeBase\SmsOne\SmsService\Sms\SmsSenderService\bin\Release\net5.0\publish\coreclr.dll
+D:\CodeBase\SmsOne\SmsService\Sms\SmsSenderService\bin\Release\net5.0\publish\mscordaccore.dll
+D:\CodeBase\SmsOne\SmsService\Sms\SmsSenderService\bin\Release\net5.0\publish\sni.dll
+D:\CodeBase\SmsOne\SmsService\Sms\SmsSenderService\bin\Release\net5.0\publish\Sms.pdb
+D:\CodeBase\SmsOne\SmsService\Sms\SmsSenderService\bin\Release\net5.0\publish\SmsSenderService.exe
